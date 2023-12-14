@@ -1,0 +1,7 @@
+Get Installation Package Go to "Client Management", click "Install Client" Click "Download Installation File" Click "Windows Client Installation Package (.INI + .EXE) Click "Download"
+
+Installing Windows Client Locally Copy the downloaded "EkranSystemClient.exe" file to the target computer you need to install ekran. Launch the "EkranSystemClient.exe" installation file using an account with administrator permission and then: Enter the name or "IP Address" of the computer on which the Application Server is installed, and click "Install".
+
+NOTE" In case there is no connection with the Application Server, the installation will fail and an error message will be displayed.
+
+After the package is installed on the client computer, installed client computer will be displyaed on the client management page in the management tool.
