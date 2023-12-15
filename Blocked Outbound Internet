@@ -1,0 +1,17 @@
+Blocked outbound internet in firewall (ekran backend server)
+
+Go to "Control Panel" or Type "wf.msc" in run.
+
+On "Windows Defender Firewall with Advance Security" click "Outbound Rules"
+
+Click "New Rule"
+
+Click "Port"
+
+Select "TCP" on Specific remote ports: Type "80, 443". Then click "next"
+
+Select "Block the connection" click "Next"
+
+Click "Next"
+
+Type any "Name", click "Finish.
